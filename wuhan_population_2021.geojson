@@ -1,0 +1,395 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jiang'an District",
+                "population": 1060000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.299,
+                            30.609
+                        ],
+                        [
+                            114.304,
+                            30.611
+                        ],
+                        [
+                            114.308,
+                            30.607
+                        ],
+                        [
+                            114.299,
+                            30.609
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jianghan District",
+                "population": 940000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.258,
+                            30.602
+                        ],
+                        [
+                            114.262,
+                            30.603
+                        ],
+                        [
+                            114.263,
+                            30.6
+                        ],
+                        [
+                            114.258,
+                            30.602
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Qiaokou District",
+                "population": 820000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.231,
+                            30.58
+                        ],
+                        [
+                            114.235,
+                            30.582
+                        ],
+                        [
+                            114.238,
+                            30.578
+                        ],
+                        [
+                            114.231,
+                            30.58
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanyang District",
+                "population": 910000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.21,
+                            30.549
+                        ],
+                        [
+                            114.216,
+                            30.55
+                        ],
+                        [
+                            114.218,
+                            30.548
+                        ],
+                        [
+                            114.21,
+                            30.549
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wuchang District",
+                "population": 1230000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.318,
+                            30.553
+                        ],
+                        [
+                            114.323,
+                            30.555
+                        ],
+                        [
+                            114.322,
+                            30.55
+                        ],
+                        [
+                            114.318,
+                            30.553
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Qingshan District",
+                "population": 780000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.405,
+                            30.631
+                        ],
+                        [
+                            114.412,
+                            30.633
+                        ],
+                        [
+                            114.415,
+                            30.63
+                        ],
+                        [
+                            114.405,
+                            30.631
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hongshan District",
+                "population": 1330000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.36,
+                            30.519
+                        ],
+                        [
+                            114.365,
+                            30.521
+                        ],
+                        [
+                            114.368,
+                            30.517
+                        ],
+                        [
+                            114.36,
+                            30.519
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dongxihu District",
+                "population": 880000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.145,
+                            30.631
+                        ],
+                        [
+                            114.15,
+                            30.633
+                        ],
+                        [
+                            114.153,
+                            30.63
+                        ],
+                        [
+                            114.145,
+                            30.631
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hannan District",
+                "population": 210000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            113.983,
+                            30.358
+                        ],
+                        [
+                            113.988,
+                            30.36
+                        ],
+                        [
+                            113.991,
+                            30.357
+                        ],
+                        [
+                            113.983,
+                            30.358
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caidian District",
+                "population": 580000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.03,
+                            30.497
+                        ],
+                        [
+                            114.035,
+                            30.5
+                        ],
+                        [
+                            114.038,
+                            30.496
+                        ],
+                        [
+                            114.03,
+                            30.497
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jiangxia District",
+                "population": 870000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.32,
+                            30.358
+                        ],
+                        [
+                            114.325,
+                            30.36
+                        ],
+                        [
+                            114.328,
+                            30.357
+                        ],
+                        [
+                            114.32,
+                            30.358
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Huangpi District",
+                "population": 1130000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.374,
+                            30.905
+                        ],
+                        [
+                            114.379,
+                            30.907
+                        ],
+                        [
+                            114.382,
+                            30.904
+                        ],
+                        [
+                            114.374,
+                            30.905
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Xinzhou District",
+                "population": 950000
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.804,
+                            30.835
+                        ],
+                        [
+                            114.809,
+                            30.837
+                        ],
+                        [
+                            114.812,
+                            30.834
+                        ],
+                        [
+                            114.804,
+                            30.835
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
